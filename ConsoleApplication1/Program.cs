@@ -21,7 +21,7 @@ namespace ConsoleApplication1
             double K = 0;
             switch (input)
             {
-                case 1:
+                case 1: 
                     K = T -273.15;
                     break;
 
